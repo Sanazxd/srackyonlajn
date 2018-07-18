@@ -3,7 +3,7 @@
     "room":                 "SRACKY ONLAJN",
     "author":               "Sanáž",
     "icon":                 null,
-    "css":                  null,
+    "css":                  "https://rawgit.com/Sanazxd/srackyonlajn/master/style.css",
     "rules": {
         "allowAutorespond": true, 
         "allowAutowoot":    true,

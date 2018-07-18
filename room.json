@@ -15,17 +15,17 @@
         "forceSmartVote":   false
     },
     "ccc": {
-        "admin":            null,
-        "ambassador":       null,
-        "host":             "#5bf",
-        "cohost":           "#58f",
-        "manager":          "#e15",
-        "bouncer":          "#f45",
-        "rdj":              "#f95",
-        "subscriber":       "#e6cc26",
-        "silversubscriber": "#dc24d9",
-        "friend":           null,
-        "user":             "#00bf4f"
+        "admin":            "#0000ff",
+        "ambassador":       "#0000ff",
+        "host":             "#0000ff",
+        "cohost":           "#0000ff",
+        "manager":          "#0000ff",
+        "bouncer":          "#0000ff",
+        "rdj":              "#0000ff",
+        "subscriber":       "#0000ff",
+        "silversubscriber": "#0000ff",
+        "friend":           "#0000ff",
+        "user":             "#0000ff"
     },
     "images": {
         "background":       null,
@@ -45,7 +45,7 @@
         "chnu2":            "https://i.imgur.com/4qjt0rr.png",
         "chnu3":            "https://i.imgur.com/D70cqbI.png",
         "sanfuck":          "https://i.imgur.com/po4wgV9.png",
-        "topnirvana":       "https://i.imgur.com/zhVX1gT.png",
+        "nirvanka":         "https://i.imgur.com/zhVX1gT.png",
         "dencr":            "https://i.imgur.com/jlCoz6B.png"
     }
 }
